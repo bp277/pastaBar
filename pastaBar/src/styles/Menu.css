@@ -1,0 +1,122 @@
+@import url("https://fonts.googleapis.com/css2?family=Cedarville+Cursive&display=swap");
+.menu {
+  width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.menu .menuTitle {
+  font-family: "Inria Serif", serif;
+  font-weight: 300;
+  font-size: 60px;
+}
+
+.menuList {
+  width: 70vw;
+  height: auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  place-items: center;
+}
+
+/* MENU ITEM STYLING */
+
+.menuItem {
+  border-radius: 15px;
+  width: 320px;
+  height: 450px;
+  box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.2);
+  background-color: #121619;
+  margin-bottom: 30px;
+}
+.menuItem:hover {
+  box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.5);
+  transition: 0.3s ease-in;
+  cursor: pointer;
+}
+
+.menuItem div {
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  width: 100%;
+  height: 200px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.menuItem h1 {
+  color: #E5D299;
+  font-size: 40px;
+  margin-bottom: -15px;
+}
+.menuItem p {
+  color: #fff;
+}
+.menuItem h1,
+.menuItem p {
+  margin-left: 20px;
+}
+
+@media only screen and (max-width: 1300px) {
+  .menuList {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+@media only screen and (max-width: 800px) {
+  .menuList {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;  }
+}
+@media only screen and (max-width: 425px) {
+  .menu {
+    margin-bottom: 30px;
+  }
+  .menuList {
+    gap: 15px;
+  }
+  .menuItem {
+    width: 290px;
+    height: 420px;
+    margin: 0;
+  }
+}
+@media only screen and (max-width: 375px) {
+  .menu {
+    margin-bottom: 30px;
+  }
+  .menuList {
+    gap: 15px;
+  }
+  .menuItem {
+    width: 290px;
+    height: 420px;
+    margin: 0;
+  }
+}
+@media only screen and (max-width: 320px) {
+  .menu {
+    margin-bottom: 30px;
+  }
+  .menuList {
+    gap: 15px;
+  }
+  .menuItem {
+    width: 200px;
+    height: 370px;
+    margin: 0;
+  }
+}
+.menuItem h1 {
+  color: #E5D299;
+  font-size: 28px;
+  margin-bottom: -15px;
+}
+.menuItem p {
+  color: #fff;
+  font-size: 14px;
+}

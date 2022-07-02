@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.811f52f6.css",
+    "main.js": "/static/js/main.ab581eb3.js",
+    "static/js/787.f6c8769b.chunk.js": "/static/js/787.f6c8769b.chunk.js",
+    "static/media/pastaBg.jpg": "/static/media/pastaBg.77f0c5d56e35b01d2b16.jpg",
+    "static/media/contactpic.jpg": "/static/media/contactpic.6880946c8c48c4c4a913.jpg",
+    "static/media/carbonara.jpg": "/static/media/carbonara.84d6bcc3d807f6e983af.jpg",
+    "static/media/quatro.jpg": "/static/media/quatro.9e833e5f640252a0544a.jpg",
+    "static/media/aboutImg.jpg": "/static/media/aboutImg.6878db2cb57c6d25cf13.jpg",
+    "static/media/arrabiata.jpg": "/static/media/arrabiata.5afaab8f9674a555bd36.jpg",
+    "static/media/funghi.jpg": "/static/media/funghi.535d2911d1410be209bd.jpg",
+    "static/media/amatriciana.jpg": "/static/media/amatriciana.e1c59ee959aaa27d6776.jpg",
+    "static/media/pastaLogo.png": "/static/media/pastaLogo.26cae3cf8fbfda3a36a9.png",
+    "static/media/popularMain.png": "/static/media/popularMain.ae3ab7cf81820c33129e.png",
+    "static/media/primavera.jpg": "/static/media/primavera.a7e3890870486af4847a.jpg",
+    "static/media/aglio.png": "/static/media/aglio.855f1ccb470182e0fdf1.png",
+    "static/media/bolognese.webp": "/static/media/bolognese.5fbf90fc6971b1264a1f.webp",
+    "static/media/spinaci.webp": "/static/media/spinaci.6f5c5af4058452fe8e96.webp",
+    "static/media/pesto.jpg": "/static/media/pesto.59d8089e4ed28b609f2f.jpg",
+    "static/media/napolitana.jpg": "/static/media/napolitana.e91314b5b2d2deb1dc7d.jpg",
+    "static/media/polloepesto.webp": "/static/media/polloepesto.1d4d54e14db93e99994b.webp",
+    "index.html": "/index.html",
+    "main.811f52f6.css.map": "/static/css/main.811f52f6.css.map",
+    "main.ab581eb3.js.map": "/static/js/main.ab581eb3.js.map",
+    "787.f6c8769b.chunk.js.map": "/static/js/787.f6c8769b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.811f52f6.css",
+    "static/js/main.ab581eb3.js"
+  ]
+}
