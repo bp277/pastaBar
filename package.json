@@ -1,0 +1,6 @@
+{
+    "homepage": "http://bp277.github.io/pastaBar",
+    "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
